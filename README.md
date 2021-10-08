@@ -3,15 +3,21 @@
 
 
 
-
+Hi, this is a hash cracker that uses the password to crack the list of hashes you have given it:)
 
 ![hashcr](https://user-images.githubusercontent.com/87072183/136549992-c6da82f4-d867-41cf-88b1-85eb26b2173f.png)
 
 
 
 
+###Supports hashes:
 
-
+- md5
+- sha1
+- sha224
+- sha256
+- sha384
+- sha512
 
 
 
